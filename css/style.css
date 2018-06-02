@@ -1,7 +1,10 @@
-
+* {
+    margin-bottom: auto;
+}
 
 body {
      font-family: Verdana, Geneva, sans-serif;
+     background-color: beige;
 }
 
 #medianContent {
@@ -10,6 +13,7 @@ body {
     width: 25%;
     background-color: #ccffff;
     border-radius: 15px;
+    margin: auto;
 }
 
 form {
