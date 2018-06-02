@@ -1,0 +1,52 @@
+
+
+body {
+     font-family: Verdana, Geneva, sans-serif;
+}
+
+#medianContent {
+    padding-top: 0px;
+    padding-bottom: 1.5%;
+    width: 25%;
+    background-color: #ccffff;
+    border-radius: 15px;
+}
+
+form {
+    padding: 1.5%;
+}
+
+#medianContent h1 {
+    background-color: black;
+    padding: 2%;
+    text-align: center;
+    border-radius: 15px;
+    color: white;
+}
+
+form p {
+    margin-bottom: 1.5%;
+}
+
+label, input, button {
+    margin-left: 1.5%;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+    background-color: aqua;
+    border-radius: 25px;
+}
+
+#display {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4%;
+    width: 80%;
+}
